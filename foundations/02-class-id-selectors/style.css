@@ -1,0 +1,20 @@
+.odd {
+	background-color: #FF8CAC;
+	font-family: "Verdana", sans-serif;
+	font-size: 20px;
+}
+
+#one-d {
+	color: #0000FF; 
+	font-size: 36px;
+}
+
+.odd.cooler {
+	font-size: 24px;
+}
+
+#another-d {
+	background-color: #8CFFAC;
+	font-size: 24px;
+	font-weight: bold;
+}

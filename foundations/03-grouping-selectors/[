@@ -8,7 +8,3 @@
 	background-color: hsl(0, 0%, 0%);
 	color: hsl(0, 100%, 100%);
 }
-
-.sbutton {
-	background-color: hsl(61, 100%, 50%);
-}
