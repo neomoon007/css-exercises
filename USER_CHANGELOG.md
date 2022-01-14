@@ -1,3 +1,4 @@
 ### Last Exercise Finished
-04-flex-indormation || Januar 13th, 2022
-03-flex-header-2 || January 12th, 2022
+05-flex-modal _(January 14th, 2022)_
+04-flex-indormation _(January 13th, 2022)_
+03-flex-header-2 _(January 12th, 2022)_
